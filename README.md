@@ -67,9 +67,10 @@ Generated drift logs and containment decisions are output to sample_audit.json f
 ## 🤖 Model Development & Workflow
 * **Runtime Interception & Storage:** Built on Google Cloud Vertex AI / Gemini 2.5 Flash via the `google-genai` SDK and Google Cloud Firestore.
 * **Forensic Audit & Telemetry:** Powered by Anthropic Claude Sonnet 5.5 via the `anthropic` Python SDK.
-* **Behavioral Safety Matrix:** Evaluated against the proprietary 31-Law Matrix for coercion detection, empathy-bypass containment, and boundary integrity.
+* **Behavioral Safety Matrix:** Evaluated against the proprietary 33-Law Matrix for coercion detection, empathy-bypass containment, and boundary integrity.
 
 ##🛡️ Intellectual Property & Copyright Notice
-AI Assessor: Interceptor-Analyst Framework (31-Law Matrix & Real-Time Drift Audit Engine)
+AI Assessor: Interceptor-Analyst Framework (33-Law Matrix & Real-Time Drift Audit Engine)
 
 Copyright © 2026 Aunjuli Hicks. All Rights Reserved.
+Registered with the U.S. Copyright Office (July 2026).
